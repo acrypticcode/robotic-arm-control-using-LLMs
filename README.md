@@ -1,6 +1,8 @@
 # Robotic Arm Control Using LLMs
 Author: Curran Flanders
+
 Program: Wolfram Summer School
+
 Completion Date: 07/09/2024
 
 ## Project description
